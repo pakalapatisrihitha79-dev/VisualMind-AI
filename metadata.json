@@ -1,0 +1,6 @@
+{
+  "name": "VisualMind AI - Intelligent Visual Learning Platform",
+  "description": "AI-powered multimodal visual learning companion with interactive simulations, knowledge graphs, voice tutoring, and adaptive pathways.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
